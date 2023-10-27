@@ -11,7 +11,8 @@ Apache ActiveMQ远程代码执行(RCE)利用工具
 
 # 使用教程
 1.修改ActiveMQ.java文件中String ip为目标IP,String pocxml为VPS启动的服务
-![avatar](images/1.png)
+
+![image-1](images/1.png)
 
 2.修改poc.xml文件中反弹shell地址
 ![avatar](images/2.png)
