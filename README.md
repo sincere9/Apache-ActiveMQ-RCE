@@ -15,7 +15,7 @@ Apache ActiveMQ远程代码执行(RCE)利用工具
 ![image-1](images/1.jpg)
 
 2.修改poc.xml文件中反弹shell地址
-![avatar](images/2.jpg)
+![image-2](images/2.jpg)
 
 3.javac编译成class
 ```
